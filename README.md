@@ -1,24 +1,8 @@
-<!--
-**mofris/mofris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hey 👋, This is Mochammad Faris
 [![Gmail Badge](https://img.shields.io/badge/-mochammadfaris001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mochammadfaris001@gmail.com)](mailto:mochammadfaris001@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mochammadfaris-14244a2090072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mochammadfaris-14244a209/)](https://www.linkedin.com/in/mochammadfaris-14244a209/) [![Github Badge](https://img.shields.io/badge/-mofris-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mofris/)](https://www.github.com/mofris/) [![Twitter Badge](https://img.shields.io/badge/-@iscrack3-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@iscrack3/)](https://www.twitter.com/@iscrack3/) <p align='left'>I'm an undergraduate student in Information Systems at Malang National Institute of Technology. I have skills in Graphic Design, and Full Stack Developer. I have joined many of my projects and work especially about design and code.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mofris alt=mofris /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mofris&show_icons=true&include_all_commits=true)](https://github.com/mofris/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofris&layout=compact)](https://github.com/mofris/github-readme-stats)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=farbb&show_icons=true&include_all_commits=true)](https://github.com/mofris/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farbb&layout=compact)](https://github.com/mofris/github-readme-stats)
