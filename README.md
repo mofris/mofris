@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mofris" alt="mofris" /></a> </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <a href="https://twitter.com/iscrack3" target="blank"><img src="https://img.shields.io/twitter/follow/iscrack3?logo=twitter&style=for-the-badge" alt="iscrack3" /></a>
+<p align="left"> <a href="https://twitter.com/innerjoin28" target="blank"><img src="https://img.shields.io/twitter/follow/innerjoin28?logo=twitter&style=for-the-badge" alt="iscrack3" /></a>
 </p>
 
 - 🔭 I’m currently working on **E-Learning & HRIS**
