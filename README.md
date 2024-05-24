@@ -95,21 +95,21 @@ I'm a Software Engineer at PT. Citra Borneo Indah Group in Pangkalanbun, Central
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-	<row style="text-align: justify">
-		<column>
-  <span align="left">
-    <a href="https://github.com/mofris">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mofris&show_icons=true&locale=en&theme=algolia" alt="Mochammad Faris" height="192px"/>
-    </a>
-  </span>
-		</column>
-		<column>
-  <span  align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-   </span>
-		</column>
-	</row>
-  <br/><br/>
+
+<table style="border:0px">
+  <tr>
+    <td>
+      <a href="https://github.com/mofris">
+        <img src="https://github-readme-stats.vercel.app/api?username=mofris&show_icons=true&locale=en&theme=algolia" alt="Mochammad Faris" height="192px"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+    </td>
+  </tr>
+</table>
+
+  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
