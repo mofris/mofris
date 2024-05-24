@@ -104,7 +104,7 @@ I'm a Software Engineer at PT. Citra Borneo Indah Group in Pangkalanbun, Central
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mofris&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mochammad faris" height="192px"/>
     </td>
   </tr>
 </table>
